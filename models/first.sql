@@ -1,1 +1,1 @@
-Select * from example where IsBankrupt='true'
+Select * from process_mining.example where IsBankrupt='true'
